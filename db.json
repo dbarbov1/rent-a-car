@@ -1,0 +1,43 @@
+{
+  "customers": [
+    {
+      "full_name": "gosho",
+      "email_address": "georgi@gmail.com",
+      "phone_number": "5673",
+      "id": 2
+    },
+    {
+      "full_name": "angel",
+      "email_address": "angel@gmail.com",
+      "phone_number": "12345",
+      "id": 3
+    },
+    {
+      "full_name": "john",
+      "email_address": "johnd@gmail.com",
+      "phone_number": "125436",
+      "id": 4
+    }
+  ],
+  "vehicles": [
+    {
+      "brand": "Mercedes Benz",
+      "model": "C class",
+      "year": "2018",
+      "price_per_day": "80",
+      "available_cars": 3,
+      "id": 1
+    },
+    {
+      "full_name": "",
+      "email_address": "",
+      "phone_number": "",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": "2009",
+      "price_per_day": "50",
+      "available_cars": "3",
+      "id": 2
+    }
+  ]
+}
